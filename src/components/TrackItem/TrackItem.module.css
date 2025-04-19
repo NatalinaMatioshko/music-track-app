@@ -1,0 +1,19 @@
+.track-item {
+  border: 1px solid #ddd;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: #fafafa;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.track-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.track-actions {
+  display: flex;
+  gap: 8px;
+}
